@@ -1,0 +1,6 @@
+[
+    {
+        "type": "MONSTER_BLACKLIST",
+        "categories": ["GROUP_TRIFFID", "GROUP_TRIFFID_OUTER"]
+    }
+]

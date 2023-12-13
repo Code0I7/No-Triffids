@@ -1,0 +1,11 @@
+[
+    {
+        "type": "MOD_INFO",
+        "id": "No_Triffids",
+        "name": "No Triffids",
+        "authors": ["Code_017"],
+        "description": "Removes the Triffids and their grove from the game.",
+        "category": "monster_exclude",
+        "dependencies": ["bn"]
+    }
+]
