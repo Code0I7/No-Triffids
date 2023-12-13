@@ -5,7 +5,7 @@
 ## ENG
 A simple mod for **Cataclysm BN** that removes Triffids and their groves from the game.
 
-# Порядок установки
+# Порядок установки | Installation
 ## RUS
 **1. Загрузите текущую версию мода, нажав "Code" - "Download ZIP" или нажав [здесь](https://github.com/Code0I7/No-Triffids/archive/main.zip).**
 
