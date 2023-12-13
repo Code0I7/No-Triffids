@@ -1,0 +1,22 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: No_Triffids\n"
+"POT-Creation-Date: 2023-12-13 00:52+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Code0I7\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\modinfo.json
+msgid "No Triffids"
+msgstr "Без Триффидов"
+
+#. ~ Description for No Triffids
+#: .\modinfo.json
+msgid "Removes the Triffids and their grove from the game."
+msgstr "Удаляет из игры Триффидов, а так же их рощу."
