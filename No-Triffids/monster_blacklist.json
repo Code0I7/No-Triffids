@@ -1,6 +1,6 @@
 [
     {
         "type": "MONSTER_BLACKLIST",
-        "categories": ["GROUP_TRIFFID", "GROUP_TRIFFID_OUTER"]
+        "categories": ["GROUP_TRIFFID", "GROUP_TRIFFID_OUTER", "GROUP_TRIFFID_HEART"]
     }
 ]
